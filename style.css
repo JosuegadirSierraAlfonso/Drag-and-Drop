@@ -1,0 +1,46 @@
+.tower {
+    display: inline-block;
+    width: 120px;
+    height: 300px;
+    border: 1px solid black;
+    margin-right: 50px;
+    
+}
+.disc {
+    width: 100px;
+    
+    margin: 2px auto;
+    border: 1px solid black;
+    background-color: gray;
+}
+
+.disc1 {
+    width: 50px;
+    height: 30px;
+}
+
+.disc2 {
+    width: 60px;
+    height: 30px;
+}
+
+.disc3 {
+    width: 70px;
+    height: 30px;
+}
+
+.disc4 {
+    width: 80px;
+    height: 30px;
+}
+
+.disc5 {
+    width: 90px;
+    height: 30px;
+}
+
+.disc6 {
+    width: 100px;
+    height: 30px;
+}
+  
